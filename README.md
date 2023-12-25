@@ -9,3 +9,7 @@ Copy IP dan jalani url dan masukkan IP
 34.125.50.217 -> contoh IP
 npx: installed 22 in 2.741s
 your url is: https://ready-animals-wave.loca.lt -> contoh link
+
+
+Bisa juga lihat dashboard dari streamlit cloud
+Link : https://bike-sharing-vendo.streamlit.app/
