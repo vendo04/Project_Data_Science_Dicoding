@@ -11,5 +11,5 @@ npx: installed 22 in 2.741s
 your url is: https://ready-animals-wave.loca.lt -> contoh link
 
 
-Bisa juga lihat dashboard dari streamlit cloud
+Bisa juga lihat dashboard dari streamlit cloud (error)
 Link : https://bike-sharing-vendo.streamlit.app/
