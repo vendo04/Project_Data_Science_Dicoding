@@ -1,14 +1,11 @@
-# Dicoding Collection Dashboard ✨
+# :sparkles: Dashboard Bike Sharing - Day :sparkles:
 
-## Setup environment
-```
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
-```
+Jalanin
+dashboard_project_indosat_x_dicoding.py
 
-## Run steamlit app
-```
-streamlit run dashboard.py
-```
+Copy IP dan jalani url dan masukkan IP
+“!streamlit run app.py &>/dev/null & npx localtunnel --port 8501 & curl ipv4.icanhazip.com”
 
+34.125.50.217 -> contoh IP
+npx: installed 22 in 2.741s
+your url is: https://ready-animals-wave.loca.lt -> contoh link
